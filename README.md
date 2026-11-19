@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shivam 👋<br><br>- 🎓 12th grade science student (CBSE)<br>- 💻 Learning programming with Python<br>- 🧠 Practicing problem solving on LeetCode<br>- ♟️ Chess enthusiast<br>- 🚀 Interested in building useful apps and improving every day
+Hi, I'm Shivam 👋<br>- 💻 Learning programming with Python<br>- 🧠 Practicing problem solving on LeetCode<br>- ♟️ Chess enthusiast<br>- 🚀 Interested in building useful apps and improving every day
 
 
 ## 🌐 Socials:
